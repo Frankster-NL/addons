@@ -1,4 +1,4 @@
-# Home Assistant Add-on: MariaDB
+# Franksters versie van MariaDB
 
 MariaDB database for Home Assistant.
 
